@@ -1,0 +1,3 @@
+Nombre  Apellido  Teléfono  Ciudad 
+Bladimir  Arroyo  8877899  Quesada 
+Freivin  Campbell  8882223  Sucre
